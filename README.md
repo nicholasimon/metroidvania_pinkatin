@@ -1,5 +1,5 @@
 An attempt to make a 1-bit metroidvania style platform exploration game. The basic underlying elements are complete, inventory/weapon selection, enemies, powerups, quests just need to actually finish the game. 
-<br />
+<br /><br />
 Anyway if you do want to try it here are the keys:<br />
 Arrow keys -  movement<br />
 Left Control - Bungee jump/Interact 1<br />
